@@ -1,6 +1,8 @@
-# StarkNet---Research
+# StarkNet-Research
 
 StarkNet Dapp built on El Cairo language (StarkNet language) and Next.js. Also gives a documentation about STARK tech and El Cairo information. 📝
+
+![imageHome](https://raw.githubusercontent.com/RafaBlockDev/StarkNet-Research/main/public/Starknet.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
